@@ -1,2 +1,4 @@
 # picture
-make a picture clear 
+make a picture  
+have a nice day
+
